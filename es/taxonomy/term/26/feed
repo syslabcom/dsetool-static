@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Evaluación de riesgos</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/es/glossary/evaluaci%C3%B3n-de-riesgos</link>
+ <description> El objetivo de la evaluación de riesgos profesionales es la protección de la salud y la seguridad de los trabajadores. La evaluación de riesgos consiste en identificar el riesgo, evaluar su gravedad y decidir si es necesario adoptar medidas para reducirlo. En virtud de la legislación sobre salud y seguridad, todos los empleadores deben efectuar periódicamente una evaluación de riesgos.
+ </description>
+ <language>es</language>
+</channel>
+</rss>

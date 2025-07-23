@@ -1,0 +1,12 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Ocena tveganja</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/sl/glossary/ocena-tveganja</link>
+ <description> Glavni cilj ocene tveganja na delovnem mestu je zaščititi zdravje in varnost delavcev. Ocena tveganja vključuje opredelitev tveganj, oceno resnosti tveganja in odločanje, ali je treba sprejeti ukrepe za zmanjšanje tveganja.
+V skladu z zakoni o zdravju in varnosti morajo vsi delodajalci redno izvajati oceno tveganja.
+ </description>
+ <language>sl</language>
+</channel>
+</rss>

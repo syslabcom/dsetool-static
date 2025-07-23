@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Izpostavljenost</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/sl/glossary/izpostavljenost</link>
+ <description> Izpostavljenost pomeni, da je 
+
+
+snov prisotna v okolju delavca in jo lahko ta vdihuje, pride v stik z njo prek kože (tudi skozi oči, ušesa) ali jo zaužije. 
+Stik organizma s kemijsko, radiološko ali fizično 
+
+
+snovjo. Izpostavljenost se meri s količino 
+
+
+snovi, prisotne pri stiku z organizmom (npr. na koži, v pljučih, v prebavilih), ki bi se lahko absorbirala.
+ </description>
+ <language>sl</language>
+</channel>
+</rss>

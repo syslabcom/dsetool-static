@@ -1,0 +1,232 @@
+@media print {
+
+  p {
+    font-size: 12pt;
+  }
+
+  div,
+  span,
+  article {
+    display: block;
+    float: none !important;
+    width: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  body {
+    font-family: arial !important;
+  }
+
+  body a:link:after,
+  body a:visited:after {
+    display: none;
+    content: "";
+  }
+
+  article header {
+    border-bottom: none !important;
+    padding-bottom: 0px !important;
+  }
+
+  body > header {
+    border-bottom: 2px solid grey;
+    padding-bottom: 0px;
+    margin-bottom: 2em;
+  }
+
+  body > header .border-right-header {
+    border-right: none;
+    height: inherit;
+  }
+
+  body > header .pull-left.border-right-header {
+    border-right: 2px solid #002a9a;
+    height: 100px;
+  }
+
+  body > header .pull-left.border-right-header img {
+    height: 100px;
+  }
+
+  body > header .logo-osha {
+    padding-top: 0px;
+  }
+
+  body > header .pull-left.logo-eu {
+    margin-top: 75px;
+    width: 50px;
+  }
+
+  body > header .content-right-header {
+    display: none;
+  }
+
+  body > header .header-text {
+    margin-top: 65px !important;
+    float: right !important;
+    width: 250px !important;
+    display: inline-block;
+    font-size: 14pt !important;
+  }
+
+  footer {
+    display: none !important;
+  }
+
+  .container {
+    width: 100% !important;
+  }
+
+  .legend-img {
+    display: none;
+  }
+
+  .breadcrumb.container {
+    display: none;
+  }
+
+  /*home*/
+  .front .row .col-md-6 {
+    width: 50% !important;
+    float: left !important;
+  }
+
+  .front .row .col-md-6 .content-home-questions {
+    margin: 10px !important;
+    padding: 15px 30px !important;
+    background-color: #d3d3d3 !important;
+  }
+
+  .front .row .col-md-6 .content-home-questions .number-questions {
+    padding-bottom: 7px !important;
+    margin-bottom: 10px !important;
+    font-size: 16pt !important;
+  }
+
+  .front .row .col-md-6 .content-home-questions .prev-text span::before {
+    position: relative;
+    float: inherit !important;
+    width: inherit !important;
+    padding-right: 11px;
+  }
+
+  .front .row .col-md-6 .content-home-questions .starnew a {
+    font-size: 16pt;
+    height: inherit !important;
+    padding-top: 0px !important;
+  }
+
+  .front .btn-home {
+    border: none;
+    margin-top: 25px !important;
+  }
+
+  .front .btn-home a {
+    background-color: grey !important;
+    color: white !important;
+    font-size: 14pt;
+    font-weight: normal;
+    border-radius: 3px;
+    padding: 5px 15px !important;
+  }
+
+  .front .text-home {
+    margin-top: 30px;
+  }
+
+  .page-node-2 .img-about {
+    display: none;
+  }
+
+  .page-node-2 #node-2 img {
+    display: none;
+  }
+
+  .page-node-2 #node-2 .content-subsection.container {
+    display: none;
+  }
+
+  .page-node-take .group-left-questions {
+    border-top: none;
+  }
+
+  .page-node-take .content-legend {
+    display: none;
+  }
+
+  .page-node-take .question-header {
+    margin-top: 15px !important;
+    margin-bottom: 20px !important;
+  }
+
+  .page-node-take .question-header .title-header {
+    display: inline-block;
+    padding-left: 1em;
+  }
+
+  .title-header {
+    padding-left: 1em !important;
+  }
+
+  .page-node-take .question-header .title-header span {
+    display: inline-block;
+  }
+
+  .page-node-take .question-header .percent {
+    margin-left: 20px !important;
+    display: inline-block;
+  }
+
+  .page-node-take .quiz-question-multichoice {
+    background-color: #d3d3d3 !important;
+    padding: 15px !important;
+  }
+
+  .page-node-take .quiz-question-multichoice .field-name-body img {
+    margin: 0 auto;
+  }
+  
+  .progress-summary-content{
+    padding-top: 20px!important;
+    padding-bottom: 20px!important;
+  }
+
+  .page-node-take .progress-summary-content .total-answered {
+    display: inline-block;
+    margin-right: 10px !important;
+    padding-right: 10px !important;
+  }
+
+  .page-node-take .progress-summary-content .total-pending {
+    display: inline-block;
+  }
+
+  .page-node-take .progress-summary-content .info-ico-right {
+    display: none;
+  }
+
+  progress{
+    display: none;
+  }
+
+  .form-actions{
+    display: none;
+  }
+
+  .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td{
+    border: 0px;
+  }
+
+  .questions-summary{
+    padding-bottom: 10px !important;
+  }
+
+  .form-type-textarea {
+    padding-top: 20px!important;;
+  }
+
+
+}
+
+

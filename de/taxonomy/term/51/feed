@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Exposition</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/de/glossary/exposition</link>
+ <description> Der Begriff Exposition beschreibt eine Situation, in der ein 
+
+
+Stoff in der Umgebung eines Arbeitnehmers vorhanden ist und von diesem durch 
+
+
+Inhalation, Hautkontakt (einschließlich Augen und Ohren) oder 
+
+
+Verschlucken aufgenommen werden kann. 
+Kontakt eines Organismus mit einem chemischen, radiologischen oder physikalischen Agens. Die Exposition wird quantifiziert als die Menge des Agens, die an den Austauschgrenzen des Organismus verfügbar ist (z. B. Haut, Lunge, Darm) und für die Aufnahme zur Verfügung steht.
+ </description>
+ <language>de</language>
+</channel>
+</rss>

@@ -1,0 +1,17 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Tehnični ukrepi</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/sl/glossary/tehni%C4%8Dni-ukrepi</link>
+ <description> Vsi ukrepi za zmanjšanje 
+
+
+izpostavljenosti nevarnim kemičnim 
+
+
+snovem z uporabo tehnične opreme.
+ </description>
+ <language>sl</language>
+</channel>
+</rss>

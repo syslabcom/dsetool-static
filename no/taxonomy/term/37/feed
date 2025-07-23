@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Farepiktogram</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/no/glossary/farepiktogram</link>
+ <description> Med “farepiktogram” menes en grafisk framstilling som omfatter et symbol samt andre grafiske elementer, som en ramme, et bakgrunnsmønster eller en bakgrunnsfarge, og som er ment å gi særlige opplysninger om vedkommende 
+
+
+fare.
+ </description>
+ <language>no</language>
+</channel>
+</rss>

@@ -1,0 +1,17 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Hazard pictograms</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/glossary/hazard-pictograms</link>
+ <description> 
+
+
+Hazard pictogram means a graphical composition that includes a symbol plus other graphic elements, such as a border, background pattern or colour that is intended to convey specific information on the 
+
+
+hazard concerned;
+ </description>
+ <language>en</language>
+</channel>
+</rss>

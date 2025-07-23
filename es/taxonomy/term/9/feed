@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Sustancia </title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/es/glossary/sustancia</link>
+ <description> «Sustancia» se refiere a un elemento químico y sus compuestos en su estado natural u obtenidos por algún proceso industrial, incluidos los aditivos necesarios para conservar su estabilidad y las impurezas que inevitablemente produzca el procedimiento, con exclusión de todos los disolventes que puedan separarse sin afectar a la estabilidad de la sustancia ni modificar su composición. Un elemento químico o un 
+
+
+compuesto de dos o más elementos químicos.
+ </description>
+ <language>es</language>
+</channel>
+</rss>

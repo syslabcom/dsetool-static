@@ -1,0 +1,22 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Hættuleg efni</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/is/glossary/h%C3%A6ttuleg-efni-0</link>
+ <description> 
+
+
+Efni sem uppfyllir viðmið um eðlislega hættu, heilsuhættu eða umhverfishættu, sem útskýrðar eru í kafla 2 til 5 af Viðauka I af 
+
+
+CLP reglugerðinni, og flokkuð í tengslum við viðkomandi hættuflokka sem gefnir eru upp í Viðaukanum.
+Flokkun hættulegra efna byggist á flokkum sem skilgreindir eru í reglugerðinni um flokkun, merkingu og pökkun. Þessir flokkar eru meðal annars eðlisleg 
+
+
+hætta (sprengifim, eldfim, óstöðug o.fl.) heilsuhætta (allar hliðar á skamm- og langtíma heilsuhættu) og umhverfishætta (sjó- og vatnaumhverfi o.fl.) .
+ 
+ </description>
+ <language>is</language>
+</channel>
+</rss>

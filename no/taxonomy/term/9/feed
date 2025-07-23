@@ -1,0 +1,17 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Stoff</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/no/glossary/stoff</link>
+ <description> Med “stoff” menes et grunnstoff og dets kjemiske 
+
+
+forbindelser i naturlig tilstand eller oppnådd gjennom en framstillingsprosess, inklusive tilsetningsstoffer som er nødvendige for å opprettholde stoffets stabilitet, samt urenheter fra prosessen som har blitt benyttet, men eksklusive løsemidler som kan skilles ut uten å påvirke stoffets stabilitet eller endre dets sammensetning. Et grunnstoff eller en 
+
+
+forbindelse av to eller flere grunnstoffer.
+ </description>
+ <language>no</language>
+</channel>
+</rss>

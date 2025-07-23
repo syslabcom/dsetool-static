@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Öryggisblöð</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/is/glossary/%C3%B6ryggisbl%C3%B6%C3%B0</link>
+ <description> Reglugerð (EC) nr. 1907/2006 REACH og reglugerð nr 888/2015
+ </description>
+ <language>is</language>
+</channel>
+</rss>

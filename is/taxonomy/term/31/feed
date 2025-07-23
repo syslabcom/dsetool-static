@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Persónuhlífar</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/is/glossary/pers%C3%B3nuhl%C3%ADfar</link>
+ <description> PPE merkir:
+(a) búnaður sem er hannaður og framleiddur til að klæðast eða bera til verndar heilbrigði eða öryggi manna gegn einni eða fleiri áhættu;
+(b) útskipanlegir hlutar fyrir búnað sem vísað er til í lið (a) sem eru nauðsynlegir fyrir verndareiginleika hans;
+(c) tengikerfi fyrir búnað sem vísað er til í lið (a) sem manneskja hvorki ber né er klæðist, sem er hönnuð til að tengja búnaðinn við ytra tæki eða við öruggan tengipunkt og sem er ekki hannað til að vera varanlega fast og sem þarf ekki að festa fyrir notkun;
+ </description>
+ <language>is</language>
+</channel>
+</rss>

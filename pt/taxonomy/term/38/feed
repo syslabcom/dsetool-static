@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Perigo</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/pt/glossary/perigo</link>
+ <description> Um perigo é a propriedade ou a capacidade intrínseca de algo potencialmente causador de danos. Os perigos podem afetar pessoas, propriedades, processos; podem causar acidentes e problemas de saúde, perda de produção, danos em equipamentos, etc. 
+ </description>
+ <language>pt</language>
+</channel>
+</rss>

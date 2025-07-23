@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Măsuri tehnice</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/ro/glossary/m%C4%83suri-tehnice</link>
+ <description> Toate măsurile care au în vedere reducerea expunerilor la substanțe periculoase prin utilizarea de echipament tehnic.
+ </description>
+ <language>ro</language>
+</channel>
+</rss>

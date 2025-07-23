@@ -1,0 +1,10 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Termeni chimici</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/ro/glossary-type/termeni-chimici</link>
+ <description>  </description>
+ <language>ro</language>
+</channel>
+</rss>

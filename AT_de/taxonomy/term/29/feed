@@ -1,0 +1,17 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Technische Maßnahmen</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/AT_de/glossary/technische-ma%C3%9Fnahmen</link>
+ <description> Alle Maßnahmen, die auf die Reduzierung der 
+
+
+Exposition gegenüber gefährlichen 
+
+
+Stoffen durch den Einsatz technischer Ausrüstung abzielen
+ </description>
+ <language>AT_de</language>
+</channel>
+</rss>

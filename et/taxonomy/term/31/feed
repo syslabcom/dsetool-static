@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Isikukaitsevahendid</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/et/glossary/isikukaitsevahendid</link>
+ <description> Isikukaitsevahend on:
+a) vahend, mis on projekteeritud ja toodetud inimesele kandmiseks või hoidmiseks, et see kaitseks teda ühe või mitme tema tervist või ohutust ohustava 
+
+
+riski eest;
+b) alapunktis a nimetatud vahendite vahetatavad osad, mis on isikukaitsevahendi kaitsefunktsiooni jaoks määrava tähtsusega;
+c) alapunktis a nimetatud vahendite 
+
+
+ühendamise süsteemid, mida inimene ei hoia ega kanna, mis on projekteeritud vahendi 
+
+
+ühendamiseks välisseadme või kindla kinnituspunkti külge, mis ei ole projekteeritud püsivaks 
+
+
+ühendamiseks ja mis ei vaja enne kasutamist kinnitustöid.
+ </description>
+ <language>et</language>
+</channel>
+</rss>

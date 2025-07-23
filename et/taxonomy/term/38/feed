@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Oht</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/et/glossary/oht</link>
+ <description> Oht on mis tahes omadus, mis võib põhjustada kahju. Ohud võivad kahjustada inimesi, vara ja protsesse, võivad põhjustada õnnetusi ja terviseprobleeme, vähendada toodangut, kahjustada seadmeid jne. 
+ </description>
+ <language>et</language>
+</channel>
+</rss>

@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Produto químico</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/pt/glossary/produto-qu%C3%ADmico</link>
+ <description> Um produto constituído por uma ou mais 
+
+
+substâncias químicas ou um ou mais 
+
+
+compostos 
+
+
+químicos. A sua função é essencialmente determinada pela sua composição química.
+Exemplos típicos: colas, tintas, desinfetantes, produtos biocidas, plastificantes, silicone, fogo-de- artifício, óleos lubrificantes, etc.
+ </description>
+ <language>pt</language>
+</channel>
+</rss>

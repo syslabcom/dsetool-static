@@ -1,0 +1,12 @@
+div.container .header-text {
+  width: auto;
+}
+div.main-container #langheader {
+  background: #00696C;
+}
+div.main-container .content-home-questions {
+  background: none repeat-x bottom #00696C;
+}
+div.main-container .ds-footer {
+  background: none repeat-x bottom #6D4B85;
+}

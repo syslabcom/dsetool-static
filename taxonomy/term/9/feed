@@ -1,0 +1,27 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Substance</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/glossary/substance</link>
+ <description> ‘Substance’ means a 
+
+
+chemical element and its 
+
+
+compounds in the natural state or obtained by any manufacturing process, including any additive necessary to preserve its stability and any impurity deriving from the process used, but excluding any solvent which may be separated without affecting the stability of the substance or changing its composition;
+A 
+
+
+chemical element or a 
+
+
+compound of two or more 
+
+
+chemical elements.
+ </description>
+ <language>en</language>
+</channel>
+</rss>

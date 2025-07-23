@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Exposure</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/glossary/exposure</link>
+ <description> Exposure describes that a 
+
+
+substance is present in the environment of a worker and can be either inhaled or taken up by contact with the skin (also eyes, ears) or through 
+
+
+ingestion. 
+Contact of an organism with a 
+
+
+chemical, radiological, or physical agent. Exposure is quantified as the amount of the agent available at the exchange boundaries of the organism (e.g. skin, lungs, gut) and available for absorption.
+ </description>
+ <language>en</language>
+</channel>
+</rss>

@@ -1,0 +1,17 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Tekniske tiltak</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/no/glossary/tekniske-tiltak</link>
+ <description> Alle tiltak som har som mål å redusere 
+
+
+eksponeringen for 
+
+
+farlige stoffer ved bruk av teknisk utstyr.
+ </description>
+ <language>no</language>
+</channel>
+</rss>

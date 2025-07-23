@@ -1,0 +1,23 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Ohutuskaardid</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/et/glossary/ohutuskaardid</link>
+ <description> 
+
+
+Ohutuskaartidel esitatakse keemiatoote omaduste ja 
+
+
+ohtude teave ning käsitsemise, kõrvaldamise, transpordi, esmaabi, tuletõrjemeetmete ja kokkupuute vähendamise meetmete juhised. 
+
+
+Ohutuskaartide teavet on vaja 
+
+
+riskide mõistmiseks ja keemiatoote ohutuks käsitsemiseks.
+ </description>
+ <language>et</language>
+</channel>
+</rss>

@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Hazard</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/glossary/hazard</link>
+ <description> A hazard is anything that has the potential to cause harm. Hazards can affect people, property, processes; they can cause accidents and ill-heath, loss of output, damage to machinery, etc. 
+ </description>
+ <language>en</language>
+</channel>
+</rss>

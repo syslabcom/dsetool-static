@@ -1,0 +1,17 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Technical Measures</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/glossary/technical-measures</link>
+ <description> All measures aiming at the reduction of 
+
+
+exposures to dangerous 
+
+
+substances by using technical equipment.
+ </description>
+ <language>en</language>
+</channel>
+</rss>

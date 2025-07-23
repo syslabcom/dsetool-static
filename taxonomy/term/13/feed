@@ -1,0 +1,24 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Chemical product</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/glossary/chemical-product</link>
+ <description> A product consisting of one or more 
+
+
+chemical 
+
+
+substances or 
+
+
+compounds. Its function is to a great degree determined by its 
+
+
+chemical composition. 
+Typical example are glues, paints, inks, disinfectants, biocides, plasticizers, silicon, fireworks, lubricating oils etc.
+ </description>
+ <language>en</language>
+</channel>
+</rss>

@@ -1,0 +1,12 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Áhættumat</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/is/glossary/%C3%A1h%C3%A6ttumat</link>
+ <description> Markmið áhættumats á vinnustað er að tryggja öryggi starfsfólks. Áhættumat felst í að greina áhættu, meta alvarleika hennar og ákveða hvort að grípa þurfi til aðgerða til að draga úr áhættunni.
+Skv. Vinnuverndarlögum þurfa allir atvinnurekendur að gera áhættumat reglulega.
+ </description>
+ <language>is</language>
+</channel>
+</rss>

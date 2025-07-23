@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Risk</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/et/glossary/risk</link>
+ <description> Risk töökohas tähendab ohuga kokkupuute tagajärjel tekkiva vigastuse või haiguse tõenäosust ja raskust. 
+ </description>
+ <language>et</language>
+</channel>
+</rss>

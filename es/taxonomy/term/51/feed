@@ -1,0 +1,17 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Exposición</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/es/glossary/exposici%C3%B3n</link>
+ <description> La exposición indica que una 
+
+
+sustancia está presente en el entorno de un trabajador y este puede inhalarla, absorberla por contacto con la piel (también los ojos o los oídos) o ingerirla. Contacto de un organismo con un 
+
+
+agente químico, radiológico o físico. La exposición se cuantifica como la cantidad de agente existente en los límites de intercambio del organismo (por ejemplo, piel, pulmones, intestinos) y disponible para su absorción.
+ </description>
+ <language>es</language>
+</channel>
+</rss>

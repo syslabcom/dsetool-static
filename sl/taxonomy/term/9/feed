@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Snov</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/sl/glossary/snov</link>
+ <description> „Snov“ pomeni kemijski element in njegove spojine v naravnem stanju ali pridobljene s kakršnim koli proizvodnim postopkom, vključno z vsemi dodatki, potrebnimi za ohranitev njene obstojnosti, in vsemi nečistotami, ki nastanejo pri uporabljenem postopku, ne vključuje pa topil, ki se lahko izločijo, ne da bi to vplivalo na obstojnost snovi ali spremenilo njeno sestavo; kemijski element ali 
+
+
+zmes dveh ali več kemijskih elementov.
+ </description>
+ <language>sl</language>
+</channel>
+</rss>

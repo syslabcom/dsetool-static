@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Varnostni list</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/sl/glossary/varnostni-list</link>
+ <description> Uredba (ES) št. 1907/2006 – uredba REACH
+ </description>
+ <language>sl</language>
+</channel>
+</rss>

@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Fare</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/no/glossary/fare</link>
+ <description> En fare er alt som har et skadepotensial. Farer kan påvirke mennesker, eiendom eller prosesser og kan føre til ulykker og sykdom, produksjonstap, maskinskade osv. 
+ </description>
+ <language>no</language>
+</channel>
+</rss>

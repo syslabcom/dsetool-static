@@ -1,0 +1,17 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Stoff</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/de/glossary/stoff</link>
+ <description> „Stoff“ bezeichnet ein chemisches Element und seine 
+
+
+Verbindungen in natürlicher Form oder gewonnen durch ein Herstellungsverfahren, einschließlich der zur Wahrung seiner Stabilität notwendigen Zusatzstoffe und der durch das angewandte Verfahren bedingten Verunreinigungen, aber mit Ausnahme von Lösungsmitteln, die von dem Stoff ohne Beeinträchtigung seiner Stabilität und ohne Änderung seiner Zusammensetzung abgetrennt werden können; ein chemisches Element oder eine 
+
+
+Verbindung zweier oder mehrerer chemischer Elemente.
+ </description>
+ <language>de</language>
+</channel>
+</rss>

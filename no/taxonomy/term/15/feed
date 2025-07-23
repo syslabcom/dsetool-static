@@ -1,0 +1,38 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Farlige stoffer</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/no/glossary/farlige-stoffer</link>
+ <description> Et 
+
+
+stoff som oppfyller kriteriene knyttet til fysiske 
+
+
+farer, helsefarer eller miljøfarer fastsatt i del 2–5 i vedlegg I til 
+
+
+CLP-forordningen, og som er klassifisert i henhold til 
+
+
+fareklassene fastsatt i nevnte vedlegg.
+Klassifiseringen av farlige 
+
+
+stoffer bygger på kategoriene definert i 
+
+
+CLP-direktivet. Disse kategoriene omfatter fysiske 
+
+
+farer (eksplosjonsfare, brannfare, ustabilitet osv.) helsefarer (alle former for helseskader på kort og lang sikt) og miljøfarer (vannmiljøet
+osv.) 
+De engelske begrepene “hazardous substances” og “dangerous substances” brukes gjerne synonymt, mens vi på norsk bruker “farlige 
+
+
+stoffer” om begge. Det er heller ingen klar forskjell mellom de to begrepene, så det er mer et spørsmål om språklige preferanser.
+ </description>
+ <language>no</language>
+</channel>
+</rss>

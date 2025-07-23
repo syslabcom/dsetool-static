@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Ficha de datos de seguridad</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/es/glossary/ficha-de-datos-de-seguridad</link>
+ <description> Reglamento (CE) n.º 1907/2006 (Reglamento REACH)
+ </description>
+ <language>es</language>
+</channel>
+</rss>

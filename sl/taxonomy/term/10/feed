@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Kemikalija</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/sl/glossary/kemikalija</link>
+ <description> Splošno uporabljen izraz za kemične elemente, spojine in 
+
+
+zmesi spojin in elementov.
+ </description>
+ <language>sl</language>
+</channel>
+</rss>

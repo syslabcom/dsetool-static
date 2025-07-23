@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Kemični izdelek</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/sl/glossary/kemi%C4%8Dni-izdelek</link>
+ <description> Predmet, ki dobi med proizvodnjo posebno obliko ali površino, ki bolj določa njegovo funkcijo njegovo kemijsko sestavo.
+Značilni primeri so pnevmatike, pohištvo iz umetnih 
+
+
+snovi, elektronske naprave, tekstil na osnovi kemičnih 
+
+
+vlaken, kabli itd.
+ </description>
+ <language>sl</language>
+</channel>
+</rss>

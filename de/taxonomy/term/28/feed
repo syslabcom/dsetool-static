@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Substitution</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/de/glossary/substitution</link>
+ <description> Ersetzen von gefährlichen 
+
+
+Stoffen oder chemischen Produkten oder von Prozessen, bei denen gefährliche 
+
+
+Stoffe entstehen, durch weniger gefährliche 
+
+
+Stoffe, Produkte oder Prozesse
+ </description>
+ <language>de</language>
+</channel>
+</rss>

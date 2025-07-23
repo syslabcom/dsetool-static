@@ -1,0 +1,29 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Nevarne snovi</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/sl/glossary/nevarne-snovi</link>
+ <description> Klasifikacija nevarnih 
+
+
+snovi temelji na kategorijah, opredeljenih v uredbi CLP.Te kategorije vključujejo fizikalne 
+
+
+nevarnosti (eksplozivi, 
+
+
+vnetljive snovi, nestabilne 
+
+
+snovi itd.), 
+
+
+nevarnosti za zdravje (vse vidike kratkotrajne in dolgotrajne škode za zdravje) in 
+
+
+nevarnosti za okolje (vodno okolje itd.).
+ </description>
+ <language>sl</language>
+</channel>
+</rss>

@@ -1,0 +1,12 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Efnavara</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/is/glossary/efnavara</link>
+ <description> Vara sem samanstendur af einu eða fleiri frumefnum eða efnasamböndum. Virkni þeirra er að miklu leyti ákvörðuð út frá efnasamsetningu þeirra.
+Dæmi eru lím, málning, blek, sótthreinsiefni, sæfiefni, þjálniefni, kísill, flugeldar, smurolíur o.fl.
+ </description>
+ <language>is</language>
+</channel>
+</rss>

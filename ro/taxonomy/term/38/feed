@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://eguides.osha.europa.eu/dangerous-substances"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Dangerous substances - Pericol</title>
+ <link>https://eguides.osha.europa.eu/dangerous-substances/ro/glossary/pericol</link>
+ <description> Un pericol reprezintă tot ceea ce are potențialul de a provoca vătămări. Pericolele pot afecta oamenii, bunurile materiale, procesele; pot cauza accidente și maladii, pierderi de producție, deteriorarea utilajelor etc. 
+ </description>
+ <language>ro</language>
+</channel>
+</rss>
