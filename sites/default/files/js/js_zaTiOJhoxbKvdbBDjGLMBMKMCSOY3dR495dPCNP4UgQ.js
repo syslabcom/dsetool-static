@@ -4,7 +4,7 @@ $(document).ready(function(){
   $(".short-and-see-more").shorten();
   // glossary();  // Deactivate old glossary
   glossaryLetters();
-  glossaryClick();
+  // glossaryClick();
   glossarySearch();
   glossaryOrderDivs();
 
