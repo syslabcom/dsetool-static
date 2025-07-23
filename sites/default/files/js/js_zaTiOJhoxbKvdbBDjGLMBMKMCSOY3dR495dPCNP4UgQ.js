@@ -2,7 +2,7 @@
 (function ($) {
 $(document).ready(function(){
   $(".short-and-see-more").shorten();
-  glossary();
+  // glossary();  // Deactivate old glossary
   glossaryLetters();
   glossaryClick();
   glossarySearch();
