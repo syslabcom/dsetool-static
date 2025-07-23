@@ -2,9 +2,9 @@
 (function ($) {
 $(document).ready(function(){
   $(".short-and-see-more").shorten();
-  // glossary();  // Deactivate old glossary
+  glossary(); 
   glossaryLetters();
-  // glossaryClick();
+  glossaryClick();
   glossarySearch();
   glossaryOrderDivs();
 
@@ -386,6 +386,7 @@ function glossary() {
 
     jQuery(this).click(function () {
       removePopUps();
+      return ;
       title=jQuery(this).attr("data-titleBM");
       jQuery(this).addClass("poparizado");
       var html="<div class='popup'><div class='closePop'><img src='/dangerous-substances/sites/all/themes/bootstrapDs/images/closeGlossary.png'></div><div class='contentPop'>"+title+"</div></div>";
