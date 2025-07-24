@@ -7,6 +7,7 @@ div.main-container #langheader {
 div.main-container .content-home-questions {
   background: none repeat-x bottom #00696C;
 }
+div.main-container .ds-footer,
 .ds-footer {
   background: none repeat-x bottom #6D4B85;
 }
@@ -25,6 +26,9 @@ div.main-container .content-home-questions {
 
 /* overwriting other css files colour settings */
 
-h1.page-header {
+.main-container h1.page-header {
     color: #00696C;
+}
+footer.ds-footer {
+  background: none repeat-x bottom #6D4B85;
 }
