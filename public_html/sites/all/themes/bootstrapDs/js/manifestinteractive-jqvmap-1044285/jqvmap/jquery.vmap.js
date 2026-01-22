@@ -770,7 +770,7 @@
       path = path || $('#' + this.getCountryId(cc))[0];
       //Highligth only for the countries with a idiomatic version
       //RRL highligth the countries on hover
-      if (cc=="is" || cc=="pt" || cc=="no" || cc=="at" || cc=="ee" || cc=="ro" || cc=="si" || cc=="es" || cc=="lt" || cc=="de"){
+      if (cc=="is" || cc=="pt" || cc=="no" || cc=="at" || cc=="ee" || cc=="ro" || cc=="si" || cc=="es" || cc=="lt"){
         //Show the country info
         if (this.hoverOpacity) {
           path.setOpacity(this.hoverOpacity);
@@ -817,10 +817,6 @@
           jQuery('#mapImg').append('<span class="tooltip-map tooltip-is">' + iceland_es + '</span>');
         }
 
-        if(lastSegment == 'de'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-is">' + iceland_de + '</span>');
-        }
-
         if(lastSegment == 'lt'){
           jQuery('#mapImg').append('<span class="tooltip-map tooltip-is">' + iceland_lt + '</span>');
         }
@@ -861,10 +857,6 @@
 
         if(lastSegment == 'es'){
           jQuery('#mapImg').append('<span class="tooltip-map tooltip-pt">' +  portugal_es + '</span>');
-        }
-
-        if(lastSegment == 'de'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-pt">' +  portugal_de + '</span>');
         }
 
         if(lastSegment == 'lt'){
@@ -909,10 +901,6 @@
           jQuery('#mapImg').append('<span class="tooltip-map tooltip-no">' + norway_es + '</span>');
         }
 
-        if(lastSegment == 'de'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-no">' + norway_de + '</span>');
-        }
-
         if(lastSegment == 'lt'){
           jQuery('#mapImg').append('<span class="tooltip-map tooltip-no">' + norway_lt + '</span>');
         }
@@ -953,10 +941,6 @@
 
         if(lastSegment == 'es'){
           jQuery('#mapImg').append('<span class="tooltip-map tooltip-at">' + austria_es + '</span>');
-        }
-
-        if(lastSegment == 'de'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-at">' + austria_de + '</span>');
         }
 
         if(lastSegment == 'lt'){
@@ -1000,10 +984,6 @@
 
         if(lastSegment == 'es'){
           jQuery('#mapImg').append('<span class="tooltip-map tooltip-ee">' + estonia_es + '</span>');
-        }
-
-        if(lastSegment == 'de'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-ee">' + estonia_de + '</span>');
         }
 
         if(lastSegment == 'lt'){
@@ -1050,10 +1030,6 @@
           jQuery('#mapImg').append('<span class="tooltip-map tooltip-ro">' + romania_es + '</span>');
         }
 
-        if(lastSegment == 'de'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-ro">' + romania_de + '</span>');
-        }
-
         if(lastSegment == 'lt'){
           jQuery('#mapImg').append('<span class="tooltip-map tooltip-ro">' + romania_lt + '</span>');
         }
@@ -1095,10 +1071,6 @@
 
         if(lastSegment == 'es'){
           jQuery('#mapImg').append('<span class="tooltip-map tooltip-si">' + slovenia_es + '</span>');
-        }
-
-        if(lastSegment == 'de'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-si">' + slovenia_de + '</span>');
         }
 
         if(lastSegment == 'lt'){
@@ -1144,59 +1116,8 @@
           jQuery('#mapImg').append('<span class="tooltip-map tooltip-es">' + spain_es + '</span>');
         }
 
-        if(lastSegment == 'de'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-es">' + spain_de + '</span>');
-        }
-
         if(lastSegment == 'lt'){
           jQuery('#mapImg').append('<span class="tooltip-map tooltip-es">' + spain_lt + '</span>');
-        }
-      }
-
-      if (cc=="de"){
-
-        if(lastSegment == 'dangerous-substances'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-de">' + germany_en + '</span>');
-        }
-
-        if(lastSegment == 'is'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-de">' + germany_is + '</span>');
-        }
-
-        if(lastSegment == 'pt'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-de">' + germany_pt + '</span>');
-        }
-
-        if(lastSegment == 'no'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-de">' + germany_no + '</span>');
-        }
-
-        if(lastSegment == 'AT_de'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-de">' + germany_at + '</span>');
-        }
-
-        if(lastSegment == 'et'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-de">' + germany_ee + '</span>');
-        }
-
-        if(lastSegment == 'ro'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-de">' + germany_ro + '</span>');
-        }
-
-        if(lastSegment == 'sl'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-de">' + germany_si + '</span>');
-        }
-
-        if(lastSegment == 'es'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-de">' + germany_es + '</span>');
-        }
-
-        if(lastSegment == 'de'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-de">' + germany_de + '</span>');
-        }
-
-        if(lastSegment == 'lt'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-de">' + germany_lt + '</span>');
         }
       }
 
@@ -1238,10 +1159,6 @@
           jQuery('#mapImg').append('<span class="tooltip-map tooltip-lt">' + lithuanian_es + '</span>');
         }
 
-        if(lastSegment == 'de'){
-          jQuery('#mapImg').append('<span class="tooltip-map tooltip-lt">' + lithuanian_de + '</span>');
-        }
-
         if(lastSegment == 'lt'){
           jQuery('#mapImg').append('<span class="tooltip-map tooltip-lt">' + lithuanian_lt + '</span>');
         }
@@ -1256,7 +1173,7 @@
         path.setFill(path.currentFillColor);
       }
 
-      if (cc=="is"||cc=="pt"||cc=="no"||cc=="at"||cc=="ee"||cc=="ro"||cc=="si"||cc=="es"||cc=="lt"||cc=="de"){
+      if (cc=="is"||cc=="pt"||cc=="no"||cc=="at"||cc=="ee"||cc=="ro"||cc=="si"||cc=="es"||cc=="lt"){
         jQuery('.tooltip-map').remove();
       }
     

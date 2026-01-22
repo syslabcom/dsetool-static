@@ -117,7 +117,7 @@ function cargaMapa() {
 
 	    onRegionOver: function(event, code, region)
 	    {
-     		if(code=="no" || code=="pt" || code=="is" || code=="at" || code=="si" || code=="ee" || code=="ro" || code=="es" || code=="lt" || code=="de"){
+     		if(code=="no" || code=="pt" || code=="is" || code=="at" || code=="si" || code=="ee" || code=="ro" || code=="es" || code=="lt"){
      			
      			jQuery("path#jqvmap1_" + code).addClass("intro");     			
      			
@@ -130,7 +130,7 @@ function cargaMapa() {
 			
 	    	if(code!="tr" && code!="ua" && code!="by" && code!="ba" && code!="rs" && code!="al" && code!="mk" && code!="md" && code!="ch" && code!="bg" &&
 	    	   code!="hr" && code!="cy" && code!="cz" && code!="dk" && code!="fr" && code!="gr" && code!="hu" && code!="ie" && code!="be" && code!="it" &&
-	    	   code!="lv" && code!="nl" && code!="pl" && code!="sk" && code!="se" && code!="gb" && code!="fi"
+	    	   code!="lv" && code!="nl" && code!="pl" && code!="sk" && code!="se" && code!="gb" && code!="fi" && code!="de"
 	    	) {
 		    /*	if(jQuery("#containerPopLanguages").length>0) {
 		    		jQuery("#containerPopLanguages").remove();
