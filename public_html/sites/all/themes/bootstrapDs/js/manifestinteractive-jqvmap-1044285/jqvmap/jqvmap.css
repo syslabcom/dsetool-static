@@ -46,7 +46,7 @@
   height: 500px;
 }
 
-#jqvmap1_no, #jqvmap1_is, #jqvmap1_pt, #jqvmap1_ro, #jqvmap1_si, #jqvmap1_ee, #jqvmap1_at, #jqvmap1_es, #jqvmap1_lt, #jqvmap1_de{
+#jqvmap1_no, #jqvmap1_is, #jqvmap1_pt, #jqvmap1_ro, #jqvmap1_si, #jqvmap1_ee, #jqvmap1_at, #jqvmap1_es, #jqvmap1_lt{
 	cursor: pointer;
 	fill: #7f99cc;	
 }
@@ -54,7 +54,7 @@
 #jqvmap1_tr , #jqvmap1_ua , #jqvmap1_by , #jqvmap1_ba , #jqvmap1_rs , #jqvmap1_al , #jqvmap1_mk , #jqvmap1_md , #jqvmap1_ch
 , #jqvmap1_bg , #jqvmap1_hr , #jqvmap1_cy , #jqvmap1_cz , #jqvmap1_dk , #jqvmap1_fr , #jqvmap1_gr , #jqvmap1_hu , #jqvmap1_ie , #jqvmap1_be
 , #jqvmap1_it , #jqvmap1_lv , #jqvmap1_nl , #jqvmap1_pl , #jqvmap1_sk ,  #jqvmap1_se , #jqvmap1_gb , #jqvmap1_fi, #jqvmap1_mt
-, #jqvmap1_lu{
+, #jqvmap1_lu, #jqvmap1_de{
 	fill:#cccbcc;
 	stroke:white;
 }
