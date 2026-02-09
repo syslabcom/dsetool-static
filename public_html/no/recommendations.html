@@ -100,7 +100,7 @@
   <footer class="ds-footer">
     <div class="container">
       <div class="copyright">
-        <span>© 2024 EU-OSHA | an agency of the European Union</span>
+        <span>© <span id="current-year">2024</span> EU-OSHA | an agency of the European Union</span>
       </div>
       <div class="footer_menu">
         <ul class="menu"><li class="first leaf"><a href="sitemap.html" accesskey="4">Kart over nettstedet</a></li>
@@ -120,6 +120,16 @@
     </div>
 
 </footer>
+
+
+
+<script>
+  document.getElementById("current-year").textContent = new Date().getFullYear();
+</script>
+
+
+
+
 
 
   <script>function euCookieComplianceLoadScripts(category) {var scriptTag = document.createElement("script");scriptTag.src = "https:\/\/piwik.osha.europa.eu\/piwik\/";document.body.appendChild(scriptTag);var scriptTag = document.createElement("script");scriptTag.src = "http:\/\/piwik.osha.europa.eu\/piwik\/";document.body.appendChild(scriptTag);}</script>

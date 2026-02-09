@@ -180,7 +180,7 @@ Where prior permission must be obtained for the reproduction or use of textual a
 <footer class="ds-footer">
     <div class="container">
       <div class="copyright">
-        <span>© 2024 EU-OSHA | an agency of the European Union</span>
+        <span>© <span id="current-year">2024</span> EU-OSHA | an agency of the European Union</span>
       </div>
       <div class="footer_menu">
         <ul class="menu"><li class="first leaf"><a href="sitemap.html" accesskey="4">Site Map</a></li>
@@ -200,6 +200,15 @@ Where prior permission must be obtained for the reproduction or use of textual a
     </div>
 
 </footer>
+
+
+
+<script>
+  document.getElementById("current-year").textContent = new Date().getFullYear();
+</script>
+
+
+
 
 
 
