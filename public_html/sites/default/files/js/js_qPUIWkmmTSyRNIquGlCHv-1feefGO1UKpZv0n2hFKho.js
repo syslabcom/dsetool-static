@@ -9892,26 +9892,6 @@ if ($.ajaxPrefilter) {
     }
   });
 }
-else if ($.httpData) {
-  // For the version of jQuery that ships with Drupal core, override
-  // jQuery.httpData to prevent auto-detecting "script" data types from
-  // untrusted domains.
-  var jquery_httpData = $.httpData;
-  $.httpData = function (xhr, type, s) {
-    // @todo Consider backporting code from newer jQuery versions to check for
-    //   a cross-domain request here, rather than using Drupal.urlIsLocal() to
-    //   block scripts from all URLs that are not on the same site.
-    if (!type && !Drupal.urlIsLocal(s.url)) {
-      var content_type = xhr.getResponseHeader('content-type') || '';
-      if (content_type.indexOf('javascript') >= 0) {
-        // Default to a safe data type.
-        type = 'text';
-      }
-    }
-    return jquery_httpData.call(this, xhr, type, s);
-  };
-  $.httpData.prototype = jquery_httpData.prototype;
-}
 
 /**
  * Attach all registered behaviors to a page element.
@@ -10235,43 +10215,6 @@ Drupal.absoluteUrl = function (url) {
   // IE <= 7 normalizes the URL when assigned to the anchor node similar to
   // the other browsers.
   return urlParsingNode.cloneNode(false).href;
-};
-
-/**
- * Returns true if the URL is within Drupal's base path.
- *
- * @param url
- *   The URL string to be tested.
- *
- * @return
- *   Boolean true if local.
- *
- * @see https://github.com/jquery/jquery-ui/blob/1.11.4/ui/tabs.js#L58
- */
-Drupal.urlIsLocal = function (url) {
-  // Always use browser-derived absolute URLs in the comparison, to avoid
-  // attempts to break out of the base path using directory traversal.
-  var absoluteUrl = Drupal.absoluteUrl(url);
-  var protocol = location.protocol;
-
-  // Consider URLs that match this site's base URL but use HTTPS instead of HTTP
-  // as local as well.
-  if (protocol === 'http:' && absoluteUrl.indexOf('https:') === 0) {
-    protocol = 'https:';
-  }
-  var baseUrl = protocol + '//' + location.host + Drupal.settings.basePath.slice(0, -1);
-
-  // Decoding non-UTF-8 strings may throw an exception.
-  try {
-    absoluteUrl = decodeURIComponent(absoluteUrl);
-  } catch (e) {}
-  try {
-    baseUrl = decodeURIComponent(baseUrl);
-  } catch (e) {}
-
-  // The given URL matches the site's base URL, or has a path under the site's
-  // base URL.
-  return absoluteUrl === baseUrl || absoluteUrl.indexOf(baseUrl + '/') === 0;
 };
 
 /**
